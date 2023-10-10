@@ -1,5 +1,5 @@
 # About Me
-My name is: Deep.
+My name is Deep.
 
 ## Food
 My favorite food is Paneer Tikka Masala with some garlic naan.
